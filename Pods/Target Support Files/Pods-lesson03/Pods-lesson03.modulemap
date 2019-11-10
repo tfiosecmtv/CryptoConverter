@@ -1,0 +1,6 @@
+module Pods_lesson03 {
+  umbrella header "Pods-lesson03-umbrella.h"
+
+  export *
+  module * { export * }
+}

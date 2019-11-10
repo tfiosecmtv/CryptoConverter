@@ -1,0 +1,35 @@
+PODS:
+  - AnimatableReload (0.1.0)
+  - Realm (3.13.1):
+    - Realm/Headers (= 3.13.1)
+  - Realm/Headers (3.13.1)
+  - RealmSwift (3.13.1):
+    - Realm (= 3.13.1)
+  - SwiftKeychainWrapper (3.2.0)
+  - SwipeCellKit (2.5.1)
+
+DEPENDENCIES:
+  - AnimatableReload
+  - Realm (~> 3.13)
+  - RealmSwift (~> 3.13)
+  - SwiftKeychainWrapper
+  - SwipeCellKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AnimatableReload
+    - Realm
+    - RealmSwift
+    - SwiftKeychainWrapper
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  AnimatableReload: dcef76a16258b82bf845225012aa8f3b1aa7df6c
+  Realm: 50071da38fe079e0735e47c9f2eae738c68c5996
+  RealmSwift: 8a1e6a02b7a08cd17a31e3115143fb69fe5f3fb9
+  SwiftKeychainWrapper: 82c4c02cdc36f9a24f7edfcaab3e336401caa1a1
+  SwipeCellKit: 30fd6a4f8a8b8ac864ea389c8b4c8bac5ba5471a
+
+PODFILE CHECKSUM: 5c9e55bd571891424ad0a6ebfc21911d37f67c33
+
+COCOAPODS: 1.8.4
